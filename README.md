@@ -1,4 +1,13 @@
-# Vitejs + React + TypeScript + Rudux Thunk + Material UI Boilerplate
+# Vitejs + React + TypeScript + Tailwind CSS + Tanstack Query Boilerplate
+
+## This repository is 🔋 battery packed with:
+
+- ⚡️ Vite js
+- ⚛️ React 18
+- ✨ TypeScript
+- 💨 Tailwind CSS 4
+- 🦀 Tanstack Query
+- 🌐 Axios
 
 ### Setup Project
 
@@ -7,11 +16,13 @@ npm i
 ```
 
 ### Run local server
+
 ```
 npm start
 ```
 
 ### Build Application
+
 ```
 npm run build
 ```
